@@ -6,7 +6,7 @@ Feel free to explore and collaborate!
 ## About Me
 
 I'm a passionate learner and tech enthusiast. I enjoy working on diverse projects and exploring new technologies. My areas of interest include
-[mention your interests here, e.g., Artificial Intelligence, Product Management, Machine learning, Data analysis, etc.]. I'm always excited to learn and share knowledge with others.
+[Artificial Intelligence, Product Management, Machine learning, Data analysis, etc.]. I'm always excited to learn and share knowledge with others.
 
 ## Current Learning
 
@@ -23,7 +23,7 @@ If you have any ideas or projects you think we could work on together, feel free
 📫 You can reach me via the following channels:
 
 - Email: ravi.vg458@gmail.com
-- LinkedIn: @raviprakash0027
+- LinkedIn: https://www.linkedin.com/in/ravi-prakash0027/
 - Twitter: @webraviprakash
 
 Feel free to connect with me, ask questions, or discuss any projects or ideas you'd like to collaborate on.
